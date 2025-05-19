@@ -20,7 +20,7 @@ function Home() {
 
         <h2> Hi, My Name is Anton!</h2>
         <div className="prompt">
-          <p>A software developer with a passion for learning and creating.</p>
+          <p>A software developer with a passion for learning and creating Web & Mobile Apps.</p>
           <a href="www.linkedin.com/in/anton-fonseka-770b521b8"><LinkedInIcon /></a>
           <EmailIcon />
           <GitHubIcon />
