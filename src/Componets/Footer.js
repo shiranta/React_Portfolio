@@ -14,7 +14,7 @@ function Footer() {
         <WhatsAppIcon/>
         <GitHubIcon/>
       </div>
-      <p> &copy; 2024 shirantha.fonseka97@gmail.com</p>
+      <p> &copy; 2025 shirantha.fonseka97@gmail.com</p>
     </div>
   );
 }
