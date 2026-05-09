@@ -4,16 +4,20 @@
     font-family: "Arial", sans-serif;
     color: #21325e;
   }
+  
+
 
   .quarter-page {
-    width: 12.5%;
+   width: 25%;
     height: 100vh; /* Adjust the height as needed */
     float: left; /* Float left to align to the left side */
     overflow: hidden; /* Hide any content that overflows the container */
-    position: relative; /* Position relative for absolute positioning inside */
+    position: relative;
+     /* Position relative for absolute positioning inside */
+
   }
   .rounded-image {
-    width: 100%;
+    width: 100%; /* Set width to 100% of the container */
     height: 100%; /* Set height to 100% of the container */
     object-fit: cover; /* Maintain aspect ratio and cover the container */
     border-radius: 5%; /* Create a rounded shape */

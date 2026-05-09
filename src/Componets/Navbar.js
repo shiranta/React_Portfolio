@@ -22,9 +22,9 @@ export default function Navbar() {
       <h1><i>Anton Fonseka</i></h1>
        <div className='hiddenLinks' >
        <Link to ='/' element={<Home1/>}>Home</Link>
+        <Link to ='projects' element={<Projects/>}>Projects</Link>
       <Link to ='experience' element={<Education/>}>Education & Experience</Link>
       <Link to ='acchivement' element={<Acchivements/>}>Certificates & Acchivements</Link>      
-      <Link to ='projects' element={<Projects/>}>Projects</Link>
       <Link to ='contact' element={<Contact/>}>Contacts</Link>
       </div>
       </div>
