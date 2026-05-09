@@ -1,10 +1,13 @@
 import React from 'react'
+import ProjectList from '../Componets/projectlist'
 
 function Projects() {
   return (
     <div className='projects'>
-      <h1>Projects</h1>
-      <div className='projectlist'></div>
+      <h1 align="center">Data Analytics & Software Development Projects</h1>
+      <div className='projectlist'>
+        <ProjectList/>
+      </div>
     </div>
   )
 }
